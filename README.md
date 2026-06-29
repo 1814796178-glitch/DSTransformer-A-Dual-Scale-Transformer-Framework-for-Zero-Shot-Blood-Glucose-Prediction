@@ -49,12 +49,3 @@ Example with custom parameters:
 python main.py --data_path ./dataset --seq_len 96 --pred_len 24 --batch_size 128
 ```
 
-The best model checkpoint will be saved as:
-
-```text
-best epoch.pth
-```
-
-## Note
-
-This project is for research purposes only. The prediction results should not be used directly for clinical decision-making.
